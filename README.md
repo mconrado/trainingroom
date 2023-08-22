@@ -1,3 +1,4 @@
 # trainingroom
 
 repositorio para testar
+.
